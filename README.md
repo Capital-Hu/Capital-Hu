@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Capital-Hu, Welcome to my github!
 - 🌱 I’m currently studing in BUPT 
-- 💞️ I’m looking to study abroad
+- 💞️ I’m looking forward to study abroad
 
 <!---
 Capital-Hu/Capital-Hu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
